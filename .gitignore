@@ -1,5 +1,5 @@
 migrations
 __pycache__
 
-venv
-db.sqlite
+.venv
+db.sqlite3
